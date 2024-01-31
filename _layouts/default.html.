@@ -3,10 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Documentacao</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/Documentacao.styles.css" asp-append-version="true" />
+    <title> Documentacao</title>
 </head>
 <body>
 <header style="margin-bottom: 20px;">
@@ -15,9 +12,6 @@
                 <a class="nav-link text-dark" asp-area="" asp-page="/Index">
                     <img class="img-fluid" src="~/Imagens/logo_tcmrio2.png" />
                 </a>
-            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#collapsibleNavbarPrincipal">
-                <span class="navbar-toggler-icon"></span>
-            </button>
         </div>
     </nav>
     <nav class="navbar navbar-expand-sm border-bottom navbar-light" id="subnavAtos">
@@ -29,27 +23,22 @@
             <div class="collapse navbar-collapse" id="collapsibleNavbar">
                 <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Padrões">Padrões</a>
+                            <a class="nav-link text-dark">Padrões</a>
                         </li>
                 </ul>
                 <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Index">Componentes</a>
+                            <a class="nav-link text-dark">Componentes</a>
                         </li>
                 </ul>
                 <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Elementos">Elementos Visuais</a>
+                            <a class="nav-link text-dark">Elementos Visuais</a>
                         </li>
                 </ul>
             </div>
         </div>
     </nav>
 </header>
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
-    </div>
 </body>
 </html>
