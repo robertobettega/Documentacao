@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Botões - Documentação
 permalink: /_posts/botoes
 ---
