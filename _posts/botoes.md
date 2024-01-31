@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Botões - Documentação
-permalink: /_posts/botoes
+permalink: https://robertobettega.github.io/Documentacao/_posts/botoes
 ---
 
 # Botões
