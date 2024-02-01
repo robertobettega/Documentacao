@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cards - Documentação
-permalink: https://robertobettega.github.io/Documentacao/cards/
+permalink: /cards/
 ---
 
 
