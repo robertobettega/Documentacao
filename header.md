@@ -12,6 +12,8 @@ Por padrão, todos os sistemas exibem a logo do tribunal no canto superior esque
 
 Para melhor entendimento da estrutura da página e agilidade no desenvolvimento de novos sistemas, está anexo a este documento arquivo de toda a página de layout padrão utilizado no tribunal (extraída do sistema DSG Online).
 
+[Página de layout padrão](_Layout.cshtml)
+
  ![image](https://github.com/robertobettega/Documentacao/assets/55776132/d572db0b-b61c-4c60-98cf-a10c93bef21e)
 
     <header style="margin-bottom: 20px;">
