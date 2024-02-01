@@ -13,7 +13,7 @@ EXIGE DATATABLE
 ![image](https://github.com/robertobettega/Documentacao/assets/55776132/0513a368-9e3b-4170-9a41-4d0ccf4facec)
 
 
-$(an).each(function(index,item) {
+    $(an).each(function(index,item) {
             var $item = $(item);
            
             if (oPaging.iPage == 0) {
@@ -23,5 +23,5 @@ $(an).each(function(index,item) {
                 var prev = $item.find('span.paginate_button.first').add($item.find('span.paginate_button.previous'));
                 prev.removeClass("disabled");
             }
-}
+    }
 
