@@ -9,7 +9,7 @@ EXIGE DATATABLE
 
 ### Paginação padrão
  
-![image](https://github.com/robertobettega/Documentacao/assets/55776132/fa816b15-c055-4eb9-87b7-85c3447e0009)
+![image](https://github.com/robertobettega/Documentacao/assets/55776132/fa816b15-c055-4eb9-87b7-85c3447e0009)<br>
 ![image](https://github.com/robertobettega/Documentacao/assets/55776132/0513a368-9e3b-4170-9a41-4d0ccf4facec)
 
 
