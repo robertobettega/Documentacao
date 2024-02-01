@@ -9,6 +9,7 @@ Esta é a página inicial da documentação do Front-end do TCMRio
 
 ## Componentes
 
+[Header](https://robertobettega.github.io/Documentacao/botoes/)
 [Botões](https://robertobettega.github.io/Documentacao/botoes/)
 [Input](https://robertobettega.github.io/Documentacao/botoes/)
 [Cards](https://robertobettega.github.io/Documentacao/botoes/)
