@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Inpus
+title: "Input - Documentação"
 permalink: /input/
 ---
 # Input
