@@ -22,7 +22,8 @@ Mensagem fixa no tipo da tela, especialmente utilizada para retorno de erro de p
 ### Mensagem de pop-up
 Mensagem de retorno de ação do sistema que surge como pop-up, centralizada na tela
 
-![image](https://github.com/robertobettega/Documentacao/assets/55776132/837e72c3-c1f0-4fa5-9aa4-d73cf0a889dc) ![image](https://github.com/robertobettega/Documentacao/assets/55776132/d523dfb6-4938-4be5-a375-cd5f2d62aac3)
+![image](https://github.com/robertobettega/Documentacao/assets/55776132/837e72c3-c1f0-4fa5-9aa4-d73cf0a889dc) ![image](https://github.com/robertobettega/Documentacao/assets/55776132/2c2d7ab8-bfc3-4bb7-8c8f-b7b2391c81c6)
+
  
     function showSucess(title, text, subUrl) {
     var Sucess = {
