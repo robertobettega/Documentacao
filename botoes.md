@@ -33,7 +33,8 @@ Utilizados em cabeçalhos de tela, em que o fundo do cabeçalho já possui cor p
 ### Botões de ícones
 Utilizados como botões de ações em que a ação deve ser descrita como placeholder. Utiliza-se em botões primários ou secundários. Dependendo da ação.
 
- ![image](https://github.com/robertobettega/Documentacao/assets/55776132/5fc8b849-fcb6-490a-88c5-d45c1646519c)
+![image](https://github.com/robertobettega/Documentacao/assets/55776132/b0a17a77-bf48-4b39-90bb-34239a34d241)
+
        
     <a class="btn btn-outline-primary title="Nova nota">
         <i class="bi bi-plus" ></i>
