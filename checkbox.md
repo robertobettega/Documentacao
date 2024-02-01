@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Checkboc - Documentação
+title: Checkbox - Documentação
 permalink: /checkbox/
 ---
 # Checkbox
